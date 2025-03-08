@@ -40,7 +40,21 @@ This project automates the process of **retrieving cryptocurrency data** from th
 - Uses **seaborn** to create a **point plot** of **percent changes** over different timeframes.
 - Generates a **line plot** to track Bitcoin price **fluctuations** over time.
 
-## 📎 Acknowledgments
+## 🚀 How to Run the Project
+1️⃣ **Clone this repository**:
+
+    git clone https://github.com/Mohab-DataAnalyst/crypto-automation.git
+    cd crypto-automation
+
+2️⃣ **Install dependencies**:
+
+    pip install requests pandas seaborn matplotlib
+
+3️⃣ **Run the script**:
+
+    python "Auto Crypto.py"
+
+## 📎 Acknowledgements
 - This project was inspired by [@Alex The Analyst.](https://youtu.be/KB2CtEDrglY?si=tUicFLHChz7cj1Vo)
 - API: [@CoinMarketCap](https://coinmarketcap.com/api/)
 
